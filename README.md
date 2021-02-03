@@ -12,4 +12,4 @@ Some example capabilities included in `jsutils` include:
 
 # DISCLAIMER
 
-This is the "autor's version" of [**pvutils**](https://github.com/PeculiarVentures/pvutils.git). I made the `pvutils` by myself only and now, when I do not have contract with PeculiarVentures, I decided to make my own versions of all the libraries I made for them. This library could be NOT COMPATIBLE with initial library and have additional features.
+This is the "author's version" of [**pvutils**](https://github.com/PeculiarVentures/pvutils.git). I made the `pvutils` by myself only and now, when I do not have contract with PeculiarVentures, I decided to make my own versions of all the libraries I made for them. This library could be NOT COMPATIBLE with initial library and have additional features.
